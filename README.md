@@ -1,4 +1,25 @@
-## Hi there 👋
+## Hi, I'm Ondrej
+
+Computer Science undergraduate at Oxford University interested in algorithms, complexity, machine learning and software engineering.
+
+## Projects
+- **French Conjugation Coach** - ...
+- **Chess Engine** - ...
+- **My Football Profile** - ...
+- **Machine Learning research project** - ...
+- **Strategy F.C.** - ...
+- **GCSE Physics Equations practice app** - ...
+
+## Currently working on
+- Deepening my understanding of ML by building a minimal automatic differentiation engine and neural network library from first principles to explore neural networks, gradient descent and backpropagation.
+- Functional programming in Haskell.
+- Discrete Mathematics including a deepening of my understanding in complexity and graph theory.
+- Linear Algebra including n dimensional optimisation, building on my understanding of gradient descent from the differentiation engine.
+- Probability
+
+## Looking to get involved with
+- Continuing to understand new developments in industry such as new technologies and frameworks.
+- Applying my knowledge of the theory and underlying principles of algorithms and machine learning to the latest frameworks and technologies used in industry.
 
 <!--
 **Ondrej215/Ondrej215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

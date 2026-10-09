@@ -5,9 +5,10 @@ Computer Science undergraduate at Oxford University interested in algorithms, co
 ## Projects
 - **French Conjugation Coach** - A tool for practicing French verb conjugations, including features such as targeted practice of tenses, classes for tracking student progress, and live leaderboards.
 - **Chess Engine** - Implements a minimax chess engine with piece square tables derived from linear regression, and features to aid minimax such as alpha beta pruning, quiescence search and move ordering heuristics.
-- **My Football Profile** - ...
-- **Machine Learning research project** - ...
-- **Strategy F.C.** - ...
+- **My Football Profile** - View live football scores and log visited stadiums and matches. Makes use of a REST API, and multithreading among other API optimisations.
+- **Machine Learning research project** - Explored affects of model complexity through two experiemnts: Investigated overfitting by varying neural network depth and introducing irrelevant training inputs to examine the effects of model complexity and noisy features on performance.
+Compared reinforcement learning with deterministic pathfinding in a chaser game, exploring the relative advantages of learned and deterministic approaches across different tasks.
+- **Strategy F.C.** - A comprehensive football management game. Several areas of football management all in one experience, the aim is to get promoted and win trophies by signing players, training your squad, setting tactics, all coming together in a complex match engine ensuring each match is a new challenge.
 - **GCSE Physics Equations practice app** - An application for practising GCSE physics equations.
 
 ## Currently working on
